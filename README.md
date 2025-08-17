@@ -11,5 +11,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com formação técnica 
 
 ### 🤝 Vamos Nos Conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinein%C3%A1cioc/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinein%C3%A1cioc/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carol2711campos@gmail.com)
